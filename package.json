@@ -1,6 +1,6 @@
 {
   "name": "stylelint-rem-over-px",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A stylelint rule to enforce the usage of rem units over px units.",
   "type": "module",
   "main": "index.js",
